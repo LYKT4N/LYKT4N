@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lyktan
+- 👀 I’m interested in expanding my knowledge
+- 🌱 I’m currently learning vue
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me lykt4n@gmail.com
