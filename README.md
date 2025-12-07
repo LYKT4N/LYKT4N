@@ -2,4 +2,4 @@
 - 👀 I’m interested in expanding my knowledge
 - 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me lyktan94@gmail.com
+- 📫 How to reach me lykt4ns@gmail.com
